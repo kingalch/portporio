@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "youtube-video-size-controller",
+    "description": "유튜브 영상 사이즈 변경",
+    "version": "1.0.0",
+
+    "content_scripts": [{
+        "matches": ["*://*.youtube.com/*"],
+        "js": ["/content.js"],
+        "run_at": "document_end"
+    }]
+}

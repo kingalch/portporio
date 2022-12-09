@@ -1,0 +1,8 @@
+F:\a\UnZipProgram\UnZipProgram\bin\Debug\UnZipProgram.exe.config
+F:\a\UnZipProgram\UnZipProgram\bin\Debug\UnZipProgram.exe
+F:\a\UnZipProgram\UnZipProgram\bin\Debug\UnZipProgram.pdb
+F:\a\UnZipProgram\UnZipProgram\obj\Debug\UnZipProgram.csprojResolveAssemblyReference.cache
+F:\a\UnZipProgram\UnZipProgram\obj\Debug\UnZipProgram.exe
+F:\a\UnZipProgram\UnZipProgram\obj\Debug\UnZipProgram.pdb
+F:\a\UnZipProgram\UnZipProgram\obj\Debug\UnZipProgram.MainForm.resources
+F:\a\UnZipProgram\UnZipProgram\obj\Debug\UnZipProgram.csproj.GenerateResource.Cache
